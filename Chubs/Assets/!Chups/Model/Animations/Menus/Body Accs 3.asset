@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body Accs 3
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Tie
+    icon: {fileID: 2800000, guid: 75e6b82a1ce387f4ca4fc0ecd5dd0b7c, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Tie
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Top Fishnet (PC)
+    icon: {fileID: 2800000, guid: 0448673b469c2534b8950982d03bcab3, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Top Fishnet
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Rings (PC)
+    icon: {fileID: 2800000, guid: fc9ae6e8a75c48941bae2fa472dcc7b6, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Rings
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

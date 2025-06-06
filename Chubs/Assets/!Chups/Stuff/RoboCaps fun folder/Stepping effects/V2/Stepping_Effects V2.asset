@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Stepping_Effects V2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Pawprint
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Foot Print
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bloody Footprint
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tip Toe
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoe Print
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Directional Arrow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Steppies 2.0
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

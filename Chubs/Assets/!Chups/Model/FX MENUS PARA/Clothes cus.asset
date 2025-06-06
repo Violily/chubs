@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Clothes cus
+  m_EditorClassIdentifier: 
+  controls:
+  - name: White Tops (PC)
+    icon: {fileID: 2800000, guid: 5f8cd21728f14d34589aa44ca24a0a13, type: 3}
+    type: 102
+    parameter:
+      name: White Tops
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: White Bottoms (PC)
+    icon: {fileID: 2800000, guid: 3fa71ecba02573544870a70543d08f6b, type: 3}
+    type: 102
+    parameter:
+      name: White Bottoms
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: White Shoes (PC)
+    icon: {fileID: 2800000, guid: 23d68d9e10aa20842b0a8d3ce799781e, type: 3}
+    type: 102
+    parameter:
+      name: White Shoes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: White Accs (PC)
+    icon: {fileID: 2800000, guid: 6d0bf630e726b8740a87fbec28eef46e, type: 3}
+    type: 102
+    parameter:
+      name: White Accs
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Metal Colors (PC)
+    icon: {fileID: 2800000, guid: 4a588cb42628b8141a9fcd89a7a2ae06, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Metal Colors
+    labels: []

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Tops
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Bra
+    icon: {fileID: 2800000, guid: 60c289ee85cbf614488df9347bfa785b, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Bra
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bra Strings (PC)
+    icon: {fileID: 2800000, guid: 60c289ee85cbf614488df9347bfa785b, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Bra Strings
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Knitted Top
+    icon: {fileID: 2800000, guid: ae97e6efe2c3fb44786c7f47526e05a8, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Knitted Top
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Leather Top (PC)
+    icon: {fileID: 2800000, guid: 9c391ed150db68a4b83595e9d5ea43f6, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Leather Top
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Overtop (PC)
+    icon: {fileID: 2800000, guid: 8c6701ad894a1ea46adf679bcdac0fcc, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Overtop
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pasties
+    icon: {fileID: 2800000, guid: a4b647d91e7611449b936ac5f127d425, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Pasties
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sweater (PC)
+    icon: {fileID: 2800000, guid: 4f32456c30ecd4a408dbb6f75d4a43b0, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Tops/Sweater
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Page 2
+    icon: {fileID: 2800000, guid: 76dcaf9b451d3eb4dbf2a4663a351960, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f838aad990faf864aa5d70d235859382, type: 2}
+    subParameters: []
+    labels: []

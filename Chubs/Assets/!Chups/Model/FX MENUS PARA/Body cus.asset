@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body cus
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Eyes Sat (PC)
+    icon: {fileID: 2800000, guid: d64ead4c32f28774bafaab534abf0dcf, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: L Eye Sat
+    labels: []
+  - name: Eyes Hue (PC)
+    icon: {fileID: 2800000, guid: 90fa74af830dfa747a568ab858284982, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: L Eye Hue
+    labels: []
+  - name: Skin Color (PC)
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Skin Color
+    labels: []
+  - name: Decal (PC)
+    icon: {fileID: 2800000, guid: 360a1281db422584a90eac487e6767b7, type: 3}
+    type: 102
+    parameter:
+      name: Decal
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Decal Emi On (PC)
+    icon: {fileID: 2800000, guid: 360a1281db422584a90eac487e6767b7, type: 3}
+    type: 102
+    parameter:
+      name: Decal Emi
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tats (PC)
+    icon: {fileID: 2800000, guid: 2f7e66c237f8ddf4b9e92e976f5f3700, type: 3}
+    type: 102
+    parameter:
+      name: Tattoos
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tats Emi (PC)
+    icon: {fileID: 2800000, guid: 2f7e66c237f8ddf4b9e92e976f5f3700, type: 3}
+    type: 102
+    parameter:
+      name: Tattoos Emi
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Next Page
+    icon: {fileID: 2800000, guid: 76dcaf9b451d3eb4dbf2a4663a351960, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b2c2254a13c355749a665ef134afc88f, type: 2}
+    subParameters: []
+    labels: []

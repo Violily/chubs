@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ChupsMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Closet
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 76b8ca7c4b29f4e4eb2e4320324f86b5, type: 2}
+    subParameters: []
+    labels: []
+  - name: Accessories
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f17f23aac8127ac4684218e839e452b8, type: 2}
+    subParameters: []
+    labels: []
+  - name: Hair
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0a7a16052fd7d2846833799384346909, type: 2}
+    subParameters: []
+    labels: []
+  - name: Species
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1bb090ae49130f245bbdae83a55163ff, type: 2}
+    subParameters: []
+    labels: []
+  - name: Customization
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 6698bca1549caec4798b83011b5d1388, type: 2}
+    subParameters: []
+    labels: []
+  - name: Extras
+    icon: {fileID: 2800000, guid: fc0425785dece284191dd68f9c9df548, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c07fdf61465e2ba419e341cc4bae6c8c, type: 2}
+    subParameters: []
+    labels: []
+  - name: made by kaiylast
+    icon: {fileID: 2800000, guid: 076dbd746c136e14cb29dca6bcff2e9b, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

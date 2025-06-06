@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Head Accs
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Face Mask
+    icon: {fileID: 2800000, guid: 8cdf0fc9806066a46bb2f9f991a54aa7, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Head Accs/Face Mask
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Glasses
+    icon: {fileID: 2800000, guid: e153c165ffc4d6447a985fd460d10c4b, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Head Accs/Glasses
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Glasses Up
+    icon: {fileID: 2800000, guid: 08ab3fe45bb623541b509d6498b5d80c, type: 3}
+    type: 102
+    parameter:
+      name: Glasses Up
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pins
+    icon: {fileID: 2800000, guid: f9e0d5b90370153478a9119d9736a50d, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Head Accs/Pins
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Lollipop
+    icon: {fileID: 2800000, guid: a88068a621be03a49979531428c440b5, type: 3}
+    type: 102
+    parameter:
+      name: Lollipop
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Piercings
+    icon: {fileID: 2800000, guid: 8833463207e46f44f9a8705dabc98f17, type: 3}
+    type: 102
+    parameter:
+      name: Piercings
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body Accs 2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Garter Cat
+    icon: {fileID: 2800000, guid: a8c709c775a691a44bc5f60a2d9a4a34, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Garter Cat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Garter Socks (PC)
+    icon: {fileID: 2800000, guid: 291ebc2667232b042b22664ba10ba51e, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Garter Socks
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Harness
+    icon: {fileID: 2800000, guid: 65c8856c987bccf47875fd6fc18accbc, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Harness
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Leash (PC)
+    icon: {fileID: 2800000, guid: b083fa1bfeccc9c429d721e002545d35, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Leash
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Leg Strap
+    icon: {fileID: 2800000, guid: 45be96d547b22e3429997c1aaa85514e, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Leg Strap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Necklaces (PC)
+    icon: {fileID: 2800000, guid: 9533f9dab2f160a46a77aea0c4e4cba9, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Necklaces
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shorts Fishnet (PC)
+    icon: {fileID: 2800000, guid: 7981a976b64e5ef48b22ab6324b87987, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Shorts Fishnet
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Page 3
+    icon: {fileID: 2800000, guid: 76dcaf9b451d3eb4dbf2a4663a351960, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e12cd4328c57bcf4aaf49c5574d4ea7b, type: 2}
+    subParameters: []
+    labels: []

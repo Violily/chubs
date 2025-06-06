@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Extras
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Contacts (PC)
+    icon: {fileID: 2800000, guid: d75442da8c8d32f47934aa0b11bea85e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b37ec652c6e1c6540a85db22437a25f7, type: 2}
+    subParameters: []
+    labels: []
+  - name: Heartbeat (PC)
+    icon: {fileID: 2800000, guid: 95183c8506a077b4aafce40b8037689c, type: 3}
+    type: 102
+    parameter:
+      name: Heartbeat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: GoGoLoco
+    icon: {fileID: 2800000, guid: 8c07675a1c44b23469da167f5b1ee43f, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f4e2cc2fe47562c4a9ef6ff386d9b9cf, type: 2}
+    subParameters: []
+    labels: []
+  - name: Paw Prints On (PC)
+    icon: {fileID: 2800000, guid: c6d3161150a0a9c4593886838ad2cca7, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Extras/Paw Prints On
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Audio Link On
+    icon: {fileID: 2800000, guid: 5aff01d8355dd9744a18f930eb4b4e99, type: 3}
+    type: 102
+    parameter:
+      name: Audio Link
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

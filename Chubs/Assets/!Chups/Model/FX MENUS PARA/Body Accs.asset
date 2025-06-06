@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body Accs
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Backpack (PC)
+    icon: {fileID: 2800000, guid: 6505e60d405edea439f6f3b127a3bbe2, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Backpack
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bandage L
+    icon: {fileID: 2800000, guid: 10d92107593877f4f87fe40721dc0427, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Bandage L
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bandage R
+    icon: {fileID: 2800000, guid: 10d92107593877f4f87fe40721dc0427, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Bandage R
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Belt (PC)
+    icon: {fileID: 2800000, guid: 868ff8dcda93d804ba8b16fc90f5677e, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Belt
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Choker
+    icon: {fileID: 2800000, guid: 5ef40494fdf4d0544b47a8b99721cc9b, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Choker
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Fishnet Sleeves (PC)
+    icon: {fileID: 2800000, guid: 0448673b469c2534b8950982d03bcab3, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Fishnet Sleeves
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Garter  Lollipop
+    icon: {fileID: 2800000, guid: a8c709c775a691a44bc5f60a2d9a4a34, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/Body Accs/Garter  Lollipop
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Page 2
+    icon: {fileID: 2800000, guid: 76dcaf9b451d3eb4dbf2a4663a351960, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 46c9d08c2fbaf1e409465ea268508dc0, type: 2}
+    subParameters: []
+    labels: []
